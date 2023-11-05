@@ -1,4 +1,5 @@
-# SamucaFTP
+# TelegramFTP
+
 Utilize o espaço ilimitado do telegram para guardar todos seus arquivos em um chat, e acessar por ftp.
 
 Use o espaço ilimitado do telegram como backup via ftp.
